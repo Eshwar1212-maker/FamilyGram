@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Dancing+Script&family=Edu+NSW+ACT+Foundation&family=Inconsolata:wght@300&family=Neucha&family=Open+Sans:ital@1&family=Playfair+Display:ital,wght@1,500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Cedarville+Cursive&family=Dancing+Script&family=Edu+NSW+ACT+Foundation&family=Inconsolata:wght@300&family=Neucha&family=Open+Sans:ital@1&family=Playfair+Display:ital,wght@1,500&family=Roboto:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
